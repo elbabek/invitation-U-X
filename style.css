@@ -9,9 +9,13 @@
   height: 100%;
   text-align: center;
   color: #454545;
-  font-size: 80px;
+  font-size: 65px;
   text-transform: uppercase;
-  font-family: "Caveat", cursive;
+   font-family: 'Sacramento', cursive;
+font-family: 'Satisfy', cursive;
+}
+.header>p{
+  font-family: 'Satisfy', cursive;
 }
 
 .header > h1 {
@@ -19,7 +23,8 @@
   color: #454545;
   font-size: 80px;
   text-transform: uppercase;
-  font-family: "Caveat", cursive;
+  font-family: 'Sacramento', cursive;
+font-family: 'Satisfy', cursive;
 }
 
 .header > h3 {
@@ -162,7 +167,7 @@ padding-top: 8%;
 
 .galleryImg{
   width: 440px;
-    height: 500px;
+    height: 550px;
 }
 
 .xanzada{
